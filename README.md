@@ -1123,6 +1123,22 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 >[4]	Bamler R. A Comparison of Range-Doppler and Wavenumber Domain Sar Focusing Algorithms[J]. IEEE Transactions on Geoscience and Remote Sensing, 1992, 30(4): 706–713<br>
 >[5]	Des Marais D. J., Strauss H., Summons R. E., et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359: 605–609<br>
 
+## [421hebau-thesis.csl]
+
+河北农业大学硕博论文专用格式，是基于[405njau-thesis.csl]的修改，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` （在线报告、网页条目如果有`URL`不空则显示`URL`）和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
+
+显示效果：
+
+引用的文献<sup>[1]</sup><br>
+继续<sup>[2，3]</sup><br>
+最后<sup>[4-6]</sup><br>
+
+> [1] Yohannes Zergaw Ayanu, Christopher Conrad, Thomas Nauss, et al. Quantifying and mapping ecosystem services supplies and demands: a review of remote sensing applications[J]. Environmental Science & Technology, 2012, 46(16): 8529-8541.	<br>
+> [2] 欧阳志云, 王效科, 苗鸿. 中国陆地生态系统服务功能及其生态经济价值的初步研究[J]. 生态学报, 1999(5): 19-25.	<br>
+> [3]唐小平, 黄桂林, 徐明, 等. 青海省生态系统服务价值评估研究[M]. 北京: 中国林业出版社, 2016.	<br>
+> [4] 杜瑶. 森林生态系统服务价值评估研究[D]. 天津师范大学, 2017.	<br>
+> [5] 自然资源部. 关于印发《自然资源调查监测体系构建总体方案》的通知[EB/OL]. http://www.gov.cn/zhengce/zhengceku/2020-01/18/content_5470398.htm, 2020-01-17.	<br>
+> [6] GB∕T38582-2020. 森林生态系统服务功能评估规范[S].
 
 ## LICENSE
 
